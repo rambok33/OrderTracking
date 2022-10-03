@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './style';
-// import Client from './assets/components/Client';
+
 import Footer from './components/Footer';
 import MainPage from './components/MainPage';
 import Navbar from './components/Navbar';
