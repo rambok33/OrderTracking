@@ -3,21 +3,21 @@ import styles from '../style';
 
 const Trackpanel = () => {
   
-// const value = {username};
-// const [formvalue, setform] = useState(value)
-// const handlechange = (e) => {
-//  console.log(e.target);
-//  const {name} =  e.target;
-//  setform({...formvalue,[name]: value})
-// }
+const value = {username};
+const [formvalue, setform] = useState(value)
+const handlechange = (e) => {
+ console.log(e.target);
+ const {name} =  e.target;
+ setform({...formvalue,[name]: value})
+}
 const inputE = (event) => {
  
   setname(event.target.value)
 }
 const [name ,setname] =useState("");
-// const [final, setfinal]= useState();
+
 const onsubmit = () =>{
-  // setfinal(name);
+
   const finalstate = name; 
   console.log(finalstate);
 }
