@@ -7,7 +7,7 @@ import Navbar from './components/Navbar';
 import Stats from './components/Stats';
 import Trackpanel from './components/Trackpanel';
 import OrderFetched from './components/OrderFetched';
-
+import OurClient from './components/OurClient';
 
 
 
@@ -31,6 +31,7 @@ const App = () =>
           <Stats/>
           <Trackpanel/>
          <OrderFetched/>
+         <OurClient/>
           <Footer/>
         
       </div>
