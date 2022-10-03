@@ -1,6 +1,7 @@
 # OrderTracking
 
-![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+<img width="1600" alt="Screenshot 2022-10-03 at 6 15 37 PM" src="https://user-images.githubusercontent.com/114887385/193579968-464a402e-2894-46ba-9713-5a9ae67bc482.png">
+
 
 <div align="center">
 
