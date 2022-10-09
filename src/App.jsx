@@ -31,7 +31,6 @@ const App = () =>
           <Stats/>
           <Trackpanel/>
          <OrderFetched/>
-       
           <Footer/>
         
       </div>
